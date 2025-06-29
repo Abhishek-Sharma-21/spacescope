@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SPACESCOPE
 
-## Getting Started
+SPACESCOPE is a visually immersive web application that brings the wonders of space exploration to your fingertips. This project was developed with the assistance of **Cursor AI** to streamline and enhance the development process.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Landing Page & Hero Section
+![Landing Page & Hero Section](./screenshots/hero.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The landing page welcomes users with a dynamic, animated hero section. It features a cosmic background, a bold headline, and a prominent "Discover More" button. This section sets the tone for the entire application, inviting users to begin their journey through the cosmos.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Missions Gallery
+![Missions Gallery](./screenshots/missions.png)
 
-## Learn More
+The missions gallery showcases a collection of current and upcoming space missions. Each card displays a mission image, title, launch date, and status, providing a quick overview of humanity's ongoing efforts to explore beyond Earth.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Astronomy Picture of the Day (APOD)
+![Astronomy Picture of the Day](./screenshots/apod.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This section highlights NASA's Astronomy Picture of the Day, featuring a stunning space image or video along with a brief description. It offers users a daily dose of cosmic inspiration and knowledge.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Near-Earth Asteroids Table
+![Near-Earth Asteroids Table](./screenshots/asteroids.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A detailed table presents information about asteroids passing close to Earth. Users can view names, approach dates, diameters, distances, and hazard status, making it easy to understand the scale and proximity of these celestial objects.
+
+---
+
+## Mars Rover Photos
+![Mars Rover Photos](./screenshots/marsrover.png)
+
+This gallery displays recent photos captured by Mars rovers. Each card includes the rover's name, camera type, and the date the photo was taken, allowing users to explore the Martian surface through the eyes of robotic explorers.
+
+---
+
+## Full APOD Detail View
+![APOD Detail View](./screenshots/apod-detail.png)
+
+A dedicated section provides an in-depth look at the Astronomy Picture of the Day, including the full image, detailed explanation, and additional context about the featured astronomical phenomenon.
+
+---
+
+## Features Overview
+![Features Overview](./screenshots/features.png)
+
+The features section introduces users to the five main areas of the application: Picture of the Day, Mars Rover Photos, Asteroid Tracker, Earth Imagery, and Missions. Each feature card is interactive and visually distinct, guiding users to explore further.
+
+---
+
+## Technology & Development
+- Built with Next.js and React for a modern, responsive experience.
+- Utilizes NASA and Space Devs public APIs for real-time space data.
+- Designed and iterated with the help of **Cursor AI** for efficient, AI-powered development.
+
+---
+
+SPACESCOPE offers a seamless and engaging way to explore the universe, combining beautiful visuals, real-time data, and intuitive navigation. Enjoy your journey through the cosmos!
