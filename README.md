@@ -18,10 +18,7 @@ The missions gallery showcases a collection of current and upcoming space missio
 
 ---
 
-## Astronomy Picture of the Day (APOD)
-![Astronomy Picture of the Day](./screenshots/apod.png)
 
-This section highlights NASA's Astronomy Picture of the Day, featuring a stunning space image or video along with a brief description. It offers users a daily dose of cosmic inspiration and knowledge.
 
 ---
 
